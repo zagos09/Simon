@@ -3,7 +3,7 @@ This is a browser-based implementation of the classic Simon Game. The game chall
 Live Demo
 
 
-Play the Game Here
+Play the Game Here: https://zagos09.github.io/Simon/
 
 
 Features
